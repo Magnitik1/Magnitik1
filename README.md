@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Magnitik1
 - 👀 I’m interested in personal development
-- 🌱 I’m currently improving my C# and C++ skills
-- 📫 How to reach me Telegram: Олексій :)  -  @oleksiyll  -  +380994595341
+- 🌱 I’m currently improving my react skills
+- 📫 How to reach me Telegram: Олексій :)  -  @oleksiyll, oleksiisukhomud@gmail.com
