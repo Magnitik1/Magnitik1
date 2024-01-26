@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Magnitik1
+- 👋 Hi, I’m Oleksii @Magnitik1
 - 👀 I’m interested in personal development
-- 🌱 I’m currently improving my react skills
+- 🌱 I’m currently improving my python skills
 - 📫 How to reach me Telegram: Олексій :)  -  @oleksiyll, oleksiisukhomud@gmail.com
